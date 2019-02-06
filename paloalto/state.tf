@@ -4,6 +4,6 @@ terraform {
         storage_account_name    = "secdevopssa"
         container_name          = "terraformstate"
         key                     = "paloalto.terraform.tfstate"
-        access_key              = "PrqyeRGephtbjP0kIQ044va9PRwHoLgMoNNKgWMZcfrWPSpch9uxCtn/rtQPwiCNeeSJ+a2E6wJ4Tm5Xn/UsbA=="
+        access_key              = ""
     }
 }
