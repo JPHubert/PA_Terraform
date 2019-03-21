@@ -21,7 +21,7 @@ variable "tenant_id" {}
 #Naming Prefix for Azure Deployment
 variable "name_prefix" {
   type    = "string"
-  default = "forest"
+  default = "AZEUS"
  }
 
 #Naming Sufix for Azure Deployment
